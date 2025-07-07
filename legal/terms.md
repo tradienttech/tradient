@@ -1,0 +1,36 @@
+# Terms of Service - Tradient.tech
+
+Welcome to Tradient.tech, a fintech SaaS and simulated prop firm platform! These Terms of Service (the "Terms") governing your use of our website and services (the "Service") apply to all users. By using the Service, you agree to these Terms. If you disagree with any part of these Terms, please do not use the Service.
+
+1. **Acceptance of Terms**
+   ...
+
+2. **Privacy Policy**
+   ...
+
+3. **SEBI Disclaimer**
+   ...
+
+4. **Risk Disclosures**
+   ...
+
+5. **Subscription and Payment**
+   ...
+
+6. **Refund Policy**
+   ...
+
+7. **Modifications to Services**
+   ...
+
+8. **Termination**
+   ...
+
+9. **Dispute Resolution**
+   ...
+
+10. **Miscellaneous**
+   ...
+
+**Contact Us**
+   ...
